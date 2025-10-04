@@ -1,3 +1,5 @@
+//  https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A
+
 #include<stdio.h>
 int main()
 {
