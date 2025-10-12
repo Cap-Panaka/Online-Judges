@@ -7,6 +7,40 @@ int main()
     char s1[1001];
     scanf("%s",s1);
     
+    
+    bool equal=1;
+    int len=strlen(s1);
+    for(int i=0;i<len/2;i++)
+    {
+        int j=len-1-i;
+        if(s1[i]!=s1[j])
+        {
+            equal=0;
+        }
+    }
+    if(equal)
+    {
+        printf("YES\n");
+    }
+    else
+    {
+        printf("NO\n");
+    }
+    
+}
+
+
+
+
+
+/*
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+    char s1[1001];
+    scanf("%s",s1);
+    
     char s2[1001];
     
     int len=strlen(s1);
@@ -34,4 +68,4 @@ int main()
         printf("NO\n");
     }
     
-}
+}  */
