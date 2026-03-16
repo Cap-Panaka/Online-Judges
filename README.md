@@ -14,18 +14,18 @@ I have solved a total of **106** problems across the following platforms. Click 
 
 | 🌐 Online Judge | 📈 Solved Problems |
 | :--- | :---: |
-| [**Atcoder**](./Atcoder/) | [38](./Atcoder/) |
-| [**Codeforces**](./Codeforces/) | [31](./Codeforces/) |
-| [**Aizu Online Judge**](./Aizu_Online_Judge/) | [16](./Aizu_Online_Judge/) |
-| [**CodeChef**](./CodeChef/) | [5](./CodeChef/) |
-| [**Miscellaneous**](./Miscellaneous/) | [5](./Miscellaneous/) |
-| [**Toph**](./Toph/) | [3](./Toph/) |
-| [**HackerRank**](./Hackerrank/) | [2](./Hackerrank/) |
-| [**LightOJ**](./LightOj/) | [2](./LightOj/) |
-| [**CSAcademy**](./CSAcademy/) | [1](./CSAcademy/) |
-| [**CSES**](./CSES/) | [1](./CSES/) |
-| [**Timus Online Judges**](./Timus_Online_Judges/) | [1](./Timus_Online_Judges/) |
-| [**HackerEarth**](./hackerearth/) | [1](./hackerearth/) |
+| [**Atcoder**](./Atcoder/) | 38 |
+| [**Codeforces**](./Codeforces/) | 31 |
+| [**Aizu Online Judge**](./Aizu_Online_Judge/) | 16 |
+| [**CodeChef**](./CodeChef/) | 5 |
+| [**Miscellaneous**](./Miscellaneous/) | 5 |
+| [**Toph**](./Toph/) | 3 |
+| [**HackerRank**](./Hackerrank/) | 2 |
+| [**LightOJ**](./LightOj/) | 2 |
+| [**CSAcademy**](./CSAcademy/) | 1 |
+| [**CSES**](./CSES/) | 1 |
+| [**Timus Online Judges**](./Timus_Online_Judges/) | 1 |
+| [**HackerEarth**](./hackerearth/) | 1 |
 | --- | --- |
 | **Total** | **106** |
 
@@ -49,3 +49,4 @@ The solutions are organized into folders by platform:
 ├── Timus_Online_Judges/ # Timus Online Judge solutions
 ├── Toph/                # Toph.co programming problems
 └── hackerearth/         # HackerEarth challenges
+
