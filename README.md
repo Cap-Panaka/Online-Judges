@@ -10,22 +10,22 @@ A professional collection of programming solutions for various Online Judges. Th
 
 ## 📊 Solved Statistics
 
-I have solved a total of **106** problems across the following platforms:
+I have solved a total of **106** problems across the following platforms. Click on a platform name to view the solutions.
 
 | 🌐 Online Judge | 📈 Solved Problems |
 | :--- | :---: |
-| **AtCoder** | 38 |
-| **Codeforces** | 31 |
-| **Aizu Online Judge** | 16 |
-| **CodeChef** | 5 |
-| **Miscellaneous** | 5 |
-| **Toph** | 3 |
-| **HackerRank** | 2 |
-| **LightOJ** | 2 |
-| **CSAcademy** | 1 |
-| **CSES** | 1 |
-| **Timus Online Judges** | 1 |
-| **HackerEarth** | 1 |
+| [**Atcoder**](./Atcoder/) | [38](./Atcoder/) |
+| [**Codeforces**](./Codeforces/) | [31](./Codeforces/) |
+| [**Aizu Online Judge**](./Aizu_Online_Judge/) | [16](./Aizu_Online_Judge/) |
+| [**CodeChef**](./CodeChef/) | [5](./CodeChef/) |
+| [**Miscellaneous**](./Miscellaneous/) | [5](./Miscellaneous/) |
+| [**Toph**](./Toph/) | [3](./Toph/) |
+| [**HackerRank**](./Hackerrank/) | [2](./Hackerrank/) |
+| [**LightOJ**](./LightOj/) | [2](./LightOj/) |
+| [**CSAcademy**](./CSAcademy/) | [1](./CSAcademy/) |
+| [**CSES**](./CSES/) | [1](./CSES/) |
+| [**Timus Online Judges**](./Timus_Online_Judges/) | [1](./Timus_Online_Judges/) |
+| [**HackerEarth**](./hackerearth/) | [1](./hackerearth/) |
 | --- | --- |
 | **Total** | **106** |
 
