@@ -10,7 +10,7 @@ A professional collection of programming solutions for various Online Judges. Th
 
 ## 📊 Solved Statistics
 
-I have solved a total of **106** problems across the following platforms. Click on a platform name to view the solutions.
+Click on a platform name to view the solutions.
 
 | 🌐 Online Judge | 📈 Solved Problems |
 | :--- | :---: |
