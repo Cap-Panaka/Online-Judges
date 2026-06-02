@@ -15,7 +15,7 @@ Click on a platform name to view the solutions.
 | 🌐 Online Judge | 📈 Solved Problems |
 | :--- | :---: |
 | [**Atcoder**](./Atcoder/) | 38 |
-| [**Codeforces**](./Codeforces/) | 32 |
+| [**Codeforces**](./Codeforces/) | 39 |
 | [**Aizu Online Judge**](./Aizu_Online_Judge/) | 16 |
 | [**CodeChef**](./CodeChef/) | 5 |
 | [**Miscellaneous**](./Miscellaneous/) | 5 |
@@ -27,7 +27,7 @@ Click on a platform name to view the solutions.
 | [**Timus Online Judges**](./Timus_Online_Judges/) | 1 |
 | [**HackerEarth**](./hackerearth/) | 1 |
 | --- | --- |
-| **Total** | **107** |
+| **Total** | **114** |
 
 ---
 
