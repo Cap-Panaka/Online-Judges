@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-106-green?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-114-green?style=flat-square)
 
 A professional collection of programming solutions for various Online Judges. This repository tracks my journey through competitive programming, featuring optimized solutions across multiple platforms.
 
