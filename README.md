@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-134-green?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-149-green?style=flat-square)
 
 A professional collection of programming solutions for various Online Judges. This repository tracks my journey through competitive programming, featuring optimized solutions across multiple platforms.
 
@@ -15,19 +15,19 @@ Click on a platform name to view the solutions.
 | 🌐 Online Judge | 📈 Solved Problems |
 | :--- | :---: |
 | [**Atcoder**](./Atcoder/) | 38 |
-| [**Codeforces**](./Codeforces/) | 51 |
+| [**Codeforces**](./Codeforces/) | 58 |
 | [**Aizu Online Judge**](./Aizu_Online_Judge/) | 16 |
 | [**CodeChef**](./CodeChef/) | 5 |
 | [**Miscellaneous**](./Miscellaneous/) | 5 |
 | [**Toph**](./Toph/) | 3 |
-| [**HackerRank**](./Hackerrank/) | 8 |
+| [**HackerRank**](./Hackerrank/) | 16 |
 | [**LightOJ**](./LightOj/) | 2 |
 | [**CSAcademy**](./CSAcademy/) | 1 |
 | [**CSES**](./CSES/) | 1 |
 | [**Timus Online Judges**](./Timus_Online_Judges/) | 1 |
 | [**HackerEarth**](./hackerearth/) | 1 |
 | --- | --- |
-| **Total** | **134** |
+| **Total** | **149** |
 
 ---
 
